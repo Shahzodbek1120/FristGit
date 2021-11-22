@@ -1,2 +1,2 @@
-# FirtGit
+# FirstGit
 mening birinchi loyiham
