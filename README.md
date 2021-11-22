@@ -1,0 +1,2 @@
+# FristGit
+mening birinchi loyiham
