@@ -1,2 +1,1 @@
-# FirstGit
-mening birinchi loyiham
+
