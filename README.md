@@ -1,2 +1,2 @@
-# FristGit
+# FirtGit
 mening birinchi loyiham
